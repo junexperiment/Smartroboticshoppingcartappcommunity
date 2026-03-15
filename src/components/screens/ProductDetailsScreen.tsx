@@ -2,7 +2,7 @@ import { ArrowLeft, MapPin, Plus, Star, Heart, ShoppingCart, AlertCircle, GitCom
 import { Button } from "../ui/button";
 import { Card } from "../ui/card";
 import { Badge } from "../ui/badge";
-import { ImageWithFallback } from "../figma/ImageWithFallback";
+import { ImageWithFallback } from "../fallback/ImageWithFallback";
 import { useState } from "react";
 import { useCart } from "../CartContext";
 import { toast } from "sonner@2.0.3";

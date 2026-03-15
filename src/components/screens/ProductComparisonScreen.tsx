@@ -2,7 +2,7 @@ import { ArrowLeft, Star, TrendingUp, Sparkles, Check, X as XIcon, Filter, GitCo
 import { Button } from "../ui/button";
 import { Card } from "../ui/card";
 import { Badge } from "../ui/badge";
-import { ImageWithFallback } from "../figma/ImageWithFallback";
+import { ImageWithFallback } from "../fallback/ImageWithFallback";
 import { useState } from "react";
 
 interface ProductComparisonScreenProps {
